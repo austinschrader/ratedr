@@ -1,0 +1,11 @@
+C:\Users\austi\Desktop\Projects\csharp\week1\ratedr\bin\Debug\netcoreapp2.2\RatedR.deps.json
+C:\Users\austi\Desktop\Projects\csharp\week1\ratedr\bin\Debug\netcoreapp2.2\RatedR.runtimeconfig.json
+C:\Users\austi\Desktop\Projects\csharp\week1\ratedr\bin\Debug\netcoreapp2.2\RatedR.runtimeconfig.dev.json
+C:\Users\austi\Desktop\Projects\csharp\week1\ratedr\bin\Debug\netcoreapp2.2\RatedR.dll
+C:\Users\austi\Desktop\Projects\csharp\week1\ratedr\bin\Debug\netcoreapp2.2\RatedR.pdb
+C:\Users\austi\Desktop\Projects\csharp\week1\ratedr\obj\Debug\netcoreapp2.2\RatedR.csprojAssemblyReference.cache
+C:\Users\austi\Desktop\Projects\csharp\week1\ratedr\obj\Debug\netcoreapp2.2\RatedR.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\Projects\csharp\week1\ratedr\obj\Debug\netcoreapp2.2\RatedR.AssemblyInfoInputs.cache
+C:\Users\austi\Desktop\Projects\csharp\week1\ratedr\obj\Debug\netcoreapp2.2\RatedR.AssemblyInfo.cs
+C:\Users\austi\Desktop\Projects\csharp\week1\ratedr\obj\Debug\netcoreapp2.2\RatedR.dll
+C:\Users\austi\Desktop\Projects\csharp\week1\ratedr\obj\Debug\netcoreapp2.2\RatedR.pdb
